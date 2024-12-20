@@ -6,6 +6,8 @@ SnapSync is an elegant and user-friendly application designed to display images 
 
 ## ✨ Features
 
+- 📂 **Folder Integration**: Select a folder to add all images and videos automatically to the viewer.
+
 - 🎞️ **Video Playback**: Effortlessly play videos with synchronized audio using VLC.
 - 🖼️ **Image Display**: Showcase images in a responsive frame with adaptive resizing.
 - 💖 **Like Button**: Mark your favorite media with a single click.
@@ -51,8 +53,10 @@ _Add a screenshot here showing image or video playback._
 
 ---
 
+
 ## 🐞 Known Issues
 
+- 🔇 No sound on video playback when VLC dependencies are missing.
 - 🖼️ Some images may not resize properly for extremely small window sizes.
 
 ---
@@ -68,5 +72,6 @@ Special thanks to the open-source community and the developers of the libraries 
 
 ---
 
-Enjoy using SnapSync! 🎉
+
+
 
