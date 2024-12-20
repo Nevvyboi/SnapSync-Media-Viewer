@@ -7,7 +7,9 @@ SnapSync is an elegant and user-friendly application designed to display images 
 ## ✨ Features
 
 - 📂 **Folder Integration**: Select a folder to add all images and videos automatically to the viewer.
-
+- 🛠️ **Settings Button**: Reset the database with a single click to start fresh.
+- 📁 **Folder Page**: View all images and videos currently accessed by the app
+- 🌗 **Light and Dark Modes**: Switch seamlessly between light and dark themes for a personalized experience.
 - 🎞️ **Video Playback**: Effortlessly play videos with synchronized audio using VLC.
 - 🖼️ **Image Display**: Showcase images in a responsive frame with adaptive resizing.
 - 💖 **Like Button**: Mark your favorite media with a single click.
@@ -50,7 +52,8 @@ SnapSync/
 
 
 ### Media Viewer:
-![{529A4DFF-B386-4170-9B93-35BBAF9639D6}](https://github.com/user-attachments/assets/d47846b9-d400-4029-a2d7-f27d69232df3)
+![{C16570D5-9506-4C51-AF71-EEEFEBA2F3B7}](https://github.com/user-attachments/assets/167e1ee1-5b4c-4a39-b87f-2c97230d39f2)
+
 
 
 
