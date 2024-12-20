@@ -33,7 +33,6 @@ SnapSync/
 │   ├── Icons/
 │   │   ├── **.png*.jpg       All icons
 │   ├── main.py             # Entry point
-├── requirements.txt        # Dependencies
 └── README.md               # Project documentation
 ```
 
