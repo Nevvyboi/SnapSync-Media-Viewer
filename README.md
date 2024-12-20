@@ -46,10 +46,12 @@ SnapSync/
 ## 📸 Screenshots
 
 ### Home Screen:
-_Add a screenshot here showing the main interface._
+![{1B4E06E6-3174-48C5-83D4-CB60EF11A613}](https://github.com/user-attachments/assets/fcef9f3b-fe42-4676-b8d8-982f33f6d707)
+
 
 ### Media Viewer:
-_Add a screenshot here showing image or video playback._
+![{0ACE9F84-A97B-4B3B-947C-D4C4A2F3201B}](https://github.com/user-attachments/assets/afaadf2b-1e0a-4009-a48b-f97f09bcb93c)
+
 
 ---
 
