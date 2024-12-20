@@ -50,7 +50,8 @@ SnapSync/
 
 
 ### Media Viewer:
-![{0ACE9F84-A97B-4B3B-947C-D4C4A2F3201B}](https://github.com/user-attachments/assets/afaadf2b-1e0a-4009-a48b-f97f09bcb93c)
+![{529A4DFF-B386-4170-9B93-35BBAF9639D6}](https://github.com/user-attachments/assets/d47846b9-d400-4029-a2d7-f27d69232df3)
+
 
 
 ---
