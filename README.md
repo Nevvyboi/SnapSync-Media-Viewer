@@ -24,10 +24,14 @@ SnapSync is an elegant and user-friendly application designed to display images 
 SnapSync/
 ├── Src/
 │   ├── Utility/
-│   │   ├── iconLoader.py   # Icon management
+│   │   ├── mediaProcesser.py
 │   │   ├── mediaViewer.py  # Media viewer implementation
+│   │   ├── iconLoader.py   # Loads all the icons for the application
+│   │   ├── /database.py
 │   ├── Database/
 │   │   ├── media.db        # SQLite database for liked media
+│   ├── Icons/
+│   │   ├── **.png*.jpg       All icons
 │   ├── main.py             # Entry point
 ├── requirements.txt        # Dependencies
 └── README.md               # Project documentation
